@@ -1,11 +1,11 @@
-title: Reading Solidot Podcast
+title: Reading Podcast
 email: qwh005007@gmail.com
 description: >-
-  Reading latest news from solidot.org
+  Reading latest news from different sites.
 baseurl: ""
 url: ""
 # twitter_username: jekyllrb
-# github_username:  jekyll
+github_username:  qiwihui
 permalink: /:categories/:year/:month/:day/:title:output_ext
 
 # Build settings

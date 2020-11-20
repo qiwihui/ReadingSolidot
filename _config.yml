@@ -1,0 +1,16 @@
+title: Reading Solidot Podcast
+email: qwh005007@gmail.com
+description: >-
+  Reading latest news from solidot.org
+baseurl: ""
+url: ""
+# twitter_username: jekyllrb
+# github_username:  jekyll
+permalink: /:categories/:year/:month/:day/:title:output_ext
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag

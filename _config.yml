@@ -8,6 +8,8 @@ url: ""
 github_username:  qiwihui
 permalink: /:categories/:year/:month/:day/:title:output_ext
 
+google_analytics: G-YX0CXJ7ZRB
+
 # Build settings
 markdown: kramdown
 theme: minima
